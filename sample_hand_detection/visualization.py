@@ -1,5 +1,9 @@
-# Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
-# SPDX-License-Identifier: BSD-3-Clause-Clear
+# SPDX-License-Identifier: Apache-2.0
+#
+# This file is copied verbatim from:
+# https://github.com/zmurez/MediaPipePyTorch/blob/master/visualization.py
+#
+# All other code in this project is licensed under the BSD 3-Clause License.
 
 import numpy as np
 import cv2
