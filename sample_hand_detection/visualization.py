@@ -1,7 +1,7 @@
+# Copyright 2021 zmurez/MediaPipePyTorch contributor
 # SPDX-License-Identifier: Apache-2.0
-#
-# This file is copied verbatim from:
-# https://github.com/zmurez/MediaPipePyTorch/blob/master/visualization.py
+# 
+# Source: https://github.com/zmurez/MediaPipePyTorch/blob/master/visualization.py
 #
 # All other code in this project is licensed under the BSD 3-Clause License.
 
